@@ -6,24 +6,16 @@ Soy una persona responsable, organizada y con muchas ganas de seguir creciendo e
 ## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes y Bases de Datos
-<img src="https://iconskills.dev/assets/icons/html.svg" width="40" /> 
-<img src="https://iconskills.dev/assets/icons/css.svg" width="40" /> 
-<img src="https://iconskills.dev/assets/icons/javascript.svg" width="40" /> 
-<img src="https://iconskills.dev/assets/icons/dotnet.svg" width="40" /> 
-<img src="https://iconskills.dev/assets/icons/sql-server.svg" width="40" /> 
-<img src="https://iconskills.dev/assets/icons/mysql.svg" width="40" /> 
-<img src="https://iconskills.dev/assets/icons/sqlite.svg" width="40" /> 
-<img src="https://iconskills.dev/assets/icons/supabase.svg" width="40" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,dotnet,mysql,sqlite,supabase)](https://skillicons.dev)
 
 ### Frameworks y Librerías
-<img src="https://iconskills.dev/assets/icons/electron.svg" width="40" /> 
-<img src="https://iconskills.dev/assets/icons/tailwindcss.svg" width="40" />
+[![My Skills](https://skillicons.dev/icons?i=electron,tailwind)](https://skillicons.dev)
 
-### Control de Versiones y Diseño
-<img src="https://iconskills.dev/assets/icons/git.svg" width="40" /> 
-<img src="https://iconskills.dev/assets/icons/github.svg" width="40" /> 
-<img src="https://iconskills.dev/assets/icons/figma.svg" width="40" /> 
-<img src="https://iconskills.dev/assets/icons/illustrator.svg" width="40" />
+### Control de Versiones
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+### Diseño UX/UI
+[![My Skills](https://skillicons.dev/icons?i=figma,ai)](https://skillicons.dev)
 
 ---
 
