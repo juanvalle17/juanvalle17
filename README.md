@@ -1,35 +1,32 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Juan Ignacio Valle  
+# 👋 Hi! I'm Juan Ignacio Valle  
 
-**Desarrollador de Software - Frontend Developer**  
+**Frontend Developer**  
 
 </div>
 
-## Tecnologías y Herramientas
+## 🛠️ Technologies & Tools
 
-### Lenguajes y Bases de Datos
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,dotnet,mysql,sqlite,supabase)](https://skillicons.dev)
+### Languages & Databases
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,dotnet,mysql,sqlite,supabase&theme=dark)](https://skillicons.dev)
 
-### Frameworks y Librerías
-[![My Skills](https://skillicons.dev/icons?i=electron,tailwind)](https://skillicons.dev)
+### Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=electron,tailwind&theme=dark)](https://skillicons.dev)
 
-### Control de Versiones
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+### Version Control
+[![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
 
-### Diseño UX/UI
-[![My Skills](https://skillicons.dev/icons?i=figma,ai)](https://skillicons.dev)
-
----
-
-
-## Contacto
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanignaciovalle84@gmail.com)  
-[![Teléfono](https://img.shields.io/badge/Teléfono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+543572538359)  
-[![Ubicación](https://img.shields.io/badge/Pilar%2C%20Córdoba-FF5733?style=for-the-badge&logo=google-maps&logoColor=white)]()  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanvalle17)  
+### UX/UI Design
+[![My Skills](https://skillicons.dev/icons?i=figma,ai&theme=dark)](https://skillicons.dev)
 
 ---
 
-✨ *Siempre buscando nuevos desafíos para crecer como desarrollador y aportar valor en cada proyecto.*  
+## 📬 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanignaciovalle84@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](tel:+543572538359)  
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/juan_valle17)  
+
+---
+
