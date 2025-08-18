@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 Passionate frontend developer with a strong focus on creating intuitive user interfaces that enhance the digital experience. I believe in the power of clean, efficient code combined with thoughtful design to build products that users love. My goal is to bridge the gap between functionality and aesthetics, crafting interfaces that are both beautiful and highly usable.
 
