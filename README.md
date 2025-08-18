@@ -2,9 +2,12 @@
 
 # 👋 Hi! I'm Juan Ignacio Valle  
 
-**Frontend Developer**  
 
 </div>
+
+## 🌟 About Me
+
+Passionate frontend developer with a strong focus on creating intuitive user interfaces that enhance the digital experience. I believe in the power of clean, efficient code combined with thoughtful design to build products that users love. My goal is to bridge the gap between functionality and aesthetics, crafting interfaces that are both beautiful and highly usable.
 
 ## 🛠️ Technologies & Tools
 
@@ -27,6 +30,3 @@
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanignaciovalle84@gmail.com)  
 [![Phone](https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](tel:+543572538359)  
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/juan_valle17)  
-
----
-
