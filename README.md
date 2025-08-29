@@ -26,13 +26,13 @@ Passionate frontend developer with a strong focus on creating intuitive user int
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,dotnet&theme=dark)](https://skillicons.dev)
 
 ### 🎨 Frontend Frameworks & Libraries  
-[![My Skills](https://skillicons.dev/icons?i=electron,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=electron,tailwind,bootstrap,astro&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Databases & Backend
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,supabase,nodejs&theme=dark)](https://skillicons.dev)
 
 ### 🔧 Development Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark)](https://skillicons.dev)
 
 ### 🎨 Design & Prototyping
 [![My Skills](https://skillicons.dev/icons?i=figma,ai&theme=dark)](https://skillicons.dev)
