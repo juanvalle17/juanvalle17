@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 👨‍💻 Passionate Frontend Developer | 🎨 UI/UX Designer | 🚀 Digital Experience Creator
+### 👨‍💻 Passionate Frontend Developer | 🚀 Digital Experience Creator
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;Clean+Code+Enthusiast;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
