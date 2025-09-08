@@ -42,6 +42,16 @@ Mi objetivo es cerrar la brecha entre funcionalidad y estética, creando interfa
 
 ---
 
+## 📂 Proyectos
+
+### 🚀 Proyecto PIEP
+🔹 **Descripción:** Plataforma desarrollada para gestionar y optimizar procesos educativos.  
+🔹 **Rol:** Desarrollo Frontend (UI/UX + Lógica de interacción).  
+🔹 **Tecnologías:** HTML, CSS, JavaScript, Node.js, Supabase.  
+🔹 **Enlace:** [🔗 Ver Proyecto](https://github.com/benjaluduena/Proyecto-P.I.E.P)
+
+---
+
 ## 📊 Analíticas de GitHub
 
 <div align="center">
